@@ -36,6 +36,15 @@ where the columns are the closing price for each crypto
 
 analysis.py -> Analysis with pandas 
 
+<p align="left">
+Return destribution
+</p>
+<figure>
+  <img src="Figure_1.png" width="350"
+ alt="output">
+
+</figure>
+
 
 
 Return distributions
