@@ -37,7 +37,7 @@ where the columns are the closing price for each crypto
 analysis.py -> Analysis with pandas 
 
 <p align="left">
-Return destribution
+Return distributions
 </p>
 <figure>
   <img src="Figure_1.png" width="350"
@@ -45,15 +45,22 @@ Return destribution
 
 </figure>
 
+<p align="left">
+Kernel Density Estimate
+</p>
+<figure>
+  <img src="Figure_3.png" width="350"
+ alt="output">
+
+</figure>
 
 
-Return distributions
-![](Figure_1.png)
-
-
- Kernel Density Estimate
-![](Figure_3.png)
-
-
+<p align="left">
 Heat maps
-![](Figure_4.png)
+</p>
+<figure>
+  <img src="Figure_4.png" width="350"
+ alt="output">
+
+</figure>
+ 
