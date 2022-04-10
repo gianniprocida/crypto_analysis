@@ -1,8 +1,10 @@
-scraper.py -> Scrape the historical price for each cryto from https://www.cryptodatadownload.com/data/binance/#google_vignette as csv file.
+scraper.py -> 
 
 
-data_preparation.py-> Transform data from :
+data_preparation.py->
+Download historical price data for each crypto from https://www.cryptodatadownload.com/data/binance/#google_vignette as csv file.
 
+Transform data from :
     
  <table>
 <tr><th> BTC/USDT </th><th> ETH/USDT</th></tr>
